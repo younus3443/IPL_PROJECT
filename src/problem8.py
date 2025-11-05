@@ -56,7 +56,7 @@ def calculate_top_10_economical_bowlers_2015(file_path, match_id_2015):
     economy = {}
     for bowler in bowler_runs:
         overs = bowler_balls[bowler] / 6
-        economy[bowler] = bowler_runs[bowler] / overs if overs > 0 else 0
+        economy[bowler] = bowler_runs[bowler] / overs if overs else 0
 
     return economy
 
