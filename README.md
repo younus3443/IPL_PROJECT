@@ -33,7 +33,7 @@ Follow these steps to set up and run the project:
        This project should have separate repo on Gitlab.com.
     4. All projects should have README.md with   nstructions on how to run this project.
 
-##Problems
+## Problems
 
 1. Total runs scored by team
 2. Top batsman for Royal Challengers Bangalore
