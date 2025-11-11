@@ -3,7 +3,7 @@
 🎯 Aim
 
 To analyze IPL match data and visualize interesting statistics — such as total runs scored by each team — using Python and Matplotlib.
-
+``` text
 ipl_project/
 │
 ├── data/              
@@ -21,7 +21,7 @@ ipl_project/
 ├── .gitignore
 ├── README.md      
 └── venv/ 
-
+```
 🧭 Instructions
 
 Follow these steps to set up and run the project:
